@@ -6,9 +6,9 @@ https://github.com/elabftw/elabftw
 
 Goals:
 
-- Faciliate scientific research and communication
+- Facilitate scientific research and communication
 - Improve science literacy worldwide
-- Increase possibilities for scientific collaboration
+- Enhance possibilities for scientific collaboration
 
 
 
