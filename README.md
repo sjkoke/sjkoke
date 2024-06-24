@@ -2,7 +2,7 @@
 
 I help scientists conduct experiments and manage data using elabFTW, the world's leading open source electronic lab notebook
 
-[https://www.elabftw.net/](https://github.com/elabftw/elabftw)
+https://github.com/elabftw/elabftw
 
 Goals:
 
