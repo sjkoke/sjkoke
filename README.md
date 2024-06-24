@@ -2,9 +2,13 @@
 
 I help scientists conduct experiments and manage data using elabFTW, the world's leading open source electronic lab notebook
 
-https://www.elabftw.net/
+[https://www.elabftw.net/](https://github.com/elabftw/elabftw)
 
+Goals:
 
+- Faciliate scientific research and communication
+- Improve science literacy worldwide
+- Increase possibilities for scientific collaboration
 
 
 
