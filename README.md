@@ -1,6 +1,6 @@
 ## Client Success and Community Manager at Deltablot
 
-I help scientists conduct experiments and manage data using elabFTW, the world's leading open source electronic lab notebook
+I help scientists conduct experiments and manage data using eLabFTW, the world's leading open source electronic lab notebook
 
 https://github.com/elabftw/elabftw
 
